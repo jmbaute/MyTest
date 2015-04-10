@@ -4,3 +4,6 @@ Butter
 Beer
 Plates
 Cups
+spoons
+forks
+knives
